@@ -19,6 +19,6 @@ A collection of GitHub achievement badges and how to earn them.
 - [x] YOLO
 - [x] Pull Shark (base)
 - [ ] Quickdraw ✅ ✅ 3 PR4
-- [ ] Pull Shark Bronze (16 PRs) - PR67891011ABCDEFGH
+- [ ] Pull Shark Bronze (16 PRs) - PR67891011ABCDEFGHI
 - [ ] Galaxy Brain
 - [ ] Starstruck
