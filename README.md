@@ -13,3 +13,12 @@ A collection of GitHub achievement badges and how to earn them.
 | 🧠 Galaxy Brain | Have replies accepted as answers in Discussions |
 | ⭐ Starstruck | Have a repository receive 16+ stars |
 | ❤️ Public Sponsor | Sponsor a contributor via GitHub Sponsors |
+
+## Progress Tracker
+
+- [x] YOLO
+- [x] Pull Shark (base)
+- [ ] Quickdraw
+- [ ] Pull Shark Bronze (16 PRs)
+- [ ] Galaxy Brain
+- [ ] Starstruck
